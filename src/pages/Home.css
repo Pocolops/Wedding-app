@@ -1,0 +1,45 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+.navbar{
+    background-color: #D7C0AE;
+    font-family:'Parisienne';
+    text-decoration: bold;
+    
+}
+.home1{
+    object-fit: cover;
+    align-items: center;
+}
+
+h1,h2{ 
+    font-family:'Parisienne';
+}
+p{
+    font-family: 'Raleway', sans-serif;
+}
+.navbar ul li{
+    
+    padding:20px;
+}
+.eventText{
+    font-family: 'Raleway', sans-serif;
+    color:#D7C0AE;
+}
+.info h1{
+    color:white
+}
+.info h2{
+    font-family: 'Raleway', sans-serif;
+    color:#e5ccbd;
+}
+.info button{
+    border-color: #D7C0AE;
+    color:#D7C0AE;
+}
+
+.sidebar li{
+    font-family: 'Raleway', sans-serif;
+}
